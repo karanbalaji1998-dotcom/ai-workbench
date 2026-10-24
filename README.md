@@ -6,6 +6,7 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini API](https://img.shields.io/badge/Gemini_3.8_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/karanbalaji1998-dotcom/ai-workbench)
 
 > A full-stack AI engineering workbench with six specialized applied AI tools for developers, data scientists, and technical teams. Architected by **Karan Balaji**. Built with server-side Gemini 3.8 Flash orchestration, deterministic mathematical analytics, explainable scoring, and zero-hallucination guardrails.
 
