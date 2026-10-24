@@ -19,7 +19,7 @@ app.use(express.json({ limit: '30mb' }));
 const getAIClient = () => {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
-    throw new Error('GEMINI_API_KEY is not configured on the server. Please verify your environment secrets.');
+    throw new Error('GEMINI_API_KEY is not configured on the server. You can obtain a free key at https://aistudio.google.com/apikey and add it to your .env file.');
   }
   return new GoogleGenAI({
     apiKey,
