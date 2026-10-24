@@ -1,0 +1,6 @@
+{
+  "name": "AI Workbench",
+  "description": "A portfolio-ready AI workspace featuring 6 production-grade tools: Resume Analyzer, SQL Assistant, Meeting Notes Analyzer, PDF Chatbot, Code Reviewer, and Data Analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
